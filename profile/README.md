@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## 🙋‍♀️ We build a discord musicbot.
+## 🙋‍♀️ We build some discord bots & music bot development stuff
 [cocochino.cafe](https://cocochino.cafe)
 
-[slyrics docs](https://slyrics.cocochino.cafe)
+[치노봇](https://discord.com/api/oauth2/authorize?client_id=426722888293548032&permissions=277062404416&scope=applications.commands%20bot)
 
-[@designed-re 's lyrics api](https://lyricsapi.cocochino.cafe)
+[slyrics docs](https://slyrics.cocochino.cafe)
 
 
 <!--
