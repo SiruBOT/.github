@@ -1,11 +1,9 @@
-# Hi there 👋
+<h1 align="center">Hi there ☕</h1>
 
-## 🙋‍♀️ We build some discord bots & music bot development stuff
-[cocochino.cafe](https://cocochino.cafe)
+<h3 align="center">🙋‍♀️ We build some discord bots & music bot development stuff</h3>
 
-[치노봇](https://discord.com/api/oauth2/authorize?client_id=426722888293548032&permissions=277062404416&scope=applications.commands%20bot)
-
-[slyrics docs](https://slyrics.cocochino.cafe)
+|[cocochino.cafe](https://cocochino.cafe)|[치노봇](https://discord.com/api/oauth2/authorize?client_id=426722888293548032&permissions=277062404416&scope=applications.commands%20bot)|[slyrics](https://slyrics.cocochino.cafe)|
+|-----------|-----------|-----------|
 
 
 <!--
